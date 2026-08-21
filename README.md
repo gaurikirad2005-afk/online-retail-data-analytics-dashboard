@@ -43,8 +43,8 @@ The project is deployed using Streamlit Community Cloud.
 
 Open the live application here:
 
-https://online-retail-data-analytics-dashboard-hvadjqlkanqtt7amkcpxt.streamlit.app
-
+[https://online-retail-data-analytics-dashboard-hvadjqlkanqtt7amkcpxt.streamlit.app
+](https://online-retail-data-analytics-dashboard-hvadjlqlkanqtt7amkcpxt.streamlit.app/)
 ## Project Workflow
 
 1. Data Collection and Understanding
